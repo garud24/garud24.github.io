@@ -61,7 +61,7 @@ document
   .addEventListener("click", function (event) {
     event.preventDefault();
     if (confirm("Would you like to download my Resume?")) {
-      window.location.href = "HimanshuResume.pdf";
+      window.location.href = "Resume/HimanshuResume.pdf";
     }
   });
 
@@ -70,7 +70,7 @@ document
   .addEventListener("click", function (event) {
     event.preventDefault();
     if (confirm("Would you like to download my Resume?")) {
-      window.location.href = "HimanshuResume.pdf";
+      window.location.href = "Resume/HimanshuResume.pdf";
     }
   });
 
