@@ -41,7 +41,7 @@ window.onscroll = () => {
   document.getElementById(id).addEventListener("click", function (event) {
     event.preventDefault();
     if (confirm("Would you like to download my Resume?")) {
-      window.location.href = "Resume/HimanshuGarud.pdf";
+      window.location.href = "Resume/HimanshuKiranGarud.pdf";
     }
   });
 
