@@ -19,7 +19,7 @@ const Contact = () => {
 
           <div className="contact-actions">
             <a
-              href="mailto:YOUR_EMAIL"
+              href="mailto:garudhimanshu4@gmail.com"
               className="btn-primary"
             >
               Send me an email ↗
